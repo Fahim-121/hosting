@@ -1,0 +1,22 @@
+div {background-color: aquamarine;
+    color: rgb(2, 57, 2);
+    font-family: 'Times New Roman';
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 10px;
+    text-align: justify;}
+
+h1 {color: black;
+   font-weight:bold;
+   text-align: center;}
+
+.class_a1 {font-weight:bolder;}
+.class_c1 {font-weight: bold; 
+          color: darkblue;}
+.class_d1 {font-family: Arial;
+          font-weight: bold;
+          font-size: larger;}
+
+#id_a1 {font-weight: bold;
+       color:black;}
