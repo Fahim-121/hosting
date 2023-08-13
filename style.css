@@ -1,0 +1,22 @@
+
+p{ color: blueviolet;
+    font-family: 'Times New Roman';
+    font-size: 5mm;}
+
+h1{ color: aqua;
+    font-family: 'Segoe UI';
+    background: gray;
+    text-align: center;} 
+
+#fahim{font-family: 'Trebuchet MS';
+        font-size: 20px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        background-color: black;}
+
+.israt{  font-family:'Gill Sans';
+        font-size: 35px;
+        text-align: center;
+        color:rgb(0, 0, 0);}
+        
+div { border: 2px solid black; }
